@@ -1,0 +1,5 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+sqlmodel==0.0.14
+strawberry-graphql==0.198.0
+strawberry-graphql[fastapi]==0.198.0
